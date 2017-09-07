@@ -5,7 +5,7 @@ This guide will walk you through deploying a Scala application on [Deis Workflow
 ## Usage
 
 ```console
-$ git clone https://github.com/deis/example-scala.git
+$ git clone https://github.com/deisthree/example-scala.git
 $ cd example-scala
 $ deis create
 Creating Application... done, created honest-knapsack
@@ -58,8 +58,8 @@ Release v2 on honest-knapsac-web-1501393759-4769j
 
 ## Additional Resources
 
-* [GitHub Project](https://github.com/deis/workflow)
+* [GitHub Project](https://github.com/deisthree/workflow)
 * [Documentation](https://deis.com/docs/workflow/)
 * [Blog](https://deis.com/blog/)
 
-[Deis Workflow]: https://github.com/deis/workflow#readme
+[Deis Workflow]: https://github.com/deisthree/workflow#readme
